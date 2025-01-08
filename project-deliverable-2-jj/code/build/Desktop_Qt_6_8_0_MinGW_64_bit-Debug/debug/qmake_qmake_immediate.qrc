@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/patients.json">C:/Users/Cybea/OneDrive/Documents/School/CS3307/Code/project-deliverable-2-jj/code/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/patients.json</file>
+<file alias="build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/doctors.json">C:/Users/Cybea/OneDrive/Documents/School/CS3307/Code/project-deliverable-2-jj/code/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/doctors.json</file>
+<file alias="build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/appointments.json">C:/Users/Cybea/OneDrive/Documents/School/CS3307/Code/project-deliverable-2-jj/code/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/appointments.json</file>
+</qresource>
+</RCC>

@@ -1,0 +1,14 @@
+debug/Appointment.o
+debug/AvailabilityManager.o
+debug/AvailabilityObserver.o
+debug/AppointmentManager.o
+debug/Doctor.o
+debug/JSONHandeler.o
+debug/MainWindow.o
+debug/Patient.o
+debug/Scheduler.o
+debug/TimeHelper.o
+debug/ValidateAccount.o
+debug/main.o
+debug/qrc_qmake_qmake_immediate.o
+debug/moc_MainWindow.o
