@@ -1,0 +1,56 @@
+[
+    {
+        "appointment_id": 1,
+        "doctor_id": 2,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T0:00-Y2024M12D06T1:00"
+    },
+    {
+        "appointment_id": 2,
+        "doctor_id": 2,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T1:00-Y2024M12D06T2:00"
+    },
+    {
+        "appointment_id": 3,
+        "doctor_id": 2,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T2:00-Y2024M12D06T3:00"
+    },
+    {
+        "appointment_id": 4,
+        "doctor_id": 2,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T3:00-Y2024M12D06T5:00"
+    },
+    {
+        "appointment_id": 5,
+        "doctor_id": 2,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T11:00-Y2024M12D06T13:00"
+    },
+    {
+        "appointment_id": 4,
+        "doctor_id": 2,
+        "patient_id": 11,
+        "timeslot": "Y2024M12D06T3:00-Y2024M12D06T5:00"
+    },
+    {
+        "appointment_id": 5,
+        "doctor_id": 2,
+        "patient_id": 11,
+        "timeslot": "Y2024M12D06T11:00-Y2024M12D06T13:00"
+    },
+    {
+        "appointment_id": 3,
+        "doctor_id": 2,
+        "patient_id": 11,
+        "timeslot": "Y2024M12D06T2:00-Y2024M12D06T3:00"
+    },
+    {
+        "appointment_id": 6,
+        "doctor_id": 3,
+        "patient_id": -1,
+        "timeslot": "Y2024M12D06T1:00-Y2024M12D06T2:00"
+    }
+]
